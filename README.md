@@ -7,71 +7,63 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/74623707?v=4" width="150" height="150" style="border-radius: 50%;">
   <h1>Selam, Ben İzzet Kadir Eryılmaz!</h1>
+  <p><i>Oyun Geliştiricisi • Unity Enthusiast • Mobil & PC Projeleri</i></p>
 </div>
 
 ---
 
-### 🎮 Hakkımda
+## 🎮 Hakkımda
 
-Ben, **Karadeniz Teknik Üniversitesi**'nde **Yönetim Bilişim Sistemleri** öğrencisiyim. Ayrıca 22 yaşında bir oyun geliştiricisiyim. Oyun geliştirmeye **Unity** oyun motoru üzerinden bilgisayar oyunları geliştirerek başladım. Ancak zamanla, mobil oyunları geliştirirken daha fazla keyif aldığımı fark ettim ve yönümü o tarafa çevirdim.
+Ben, **Karadeniz Teknik Üniversitesi**'nde **Yönetim Bilişim Sistemleri** öğrencisiyim.  
+22 yaşında bir oyun geliştiricisiyim. Oyun geliştirmeye **Unity** oyun motoru üzerinden bilgisayar oyunları geliştirerek başladım.  
+Zamanla mobil oyunlar üretirken daha fazla keyif aldığımı fark ettim ve yönümü mobil projelere çevirdim.  
 
-Bireysel projeler geliştirsem de hem network sağlamak hem takım çalışmasına adapte olmak amacıyla ekipler içinde de bulundum.
-
-Şu an Unity kullanmaya devam ediyorum, **ağırlıklı olarak mobil projeler**de bulunsam da ilgimi çeken **bilgisayar oyunları** projelerine de dahil oluyorum.
+Bireysel projeler geliştirsem de hem network sağlamak hem de takım çalışmasına adapte olmak amacıyla ekip projelerinde de aktif rol aldım.  
+Şu an **Unity** kullanmaya devam ediyor, ağırlıklı olarak **mobil oyun projeleri** geliştiriyorum.
 
 ---
 
-## Teknik Yetkinliklerim 🛠️
+## 🛠️ Teknik Yetkinliklerim
+
 Profesyonel ve kişisel projelerimde kullandığım başlıca teknolojiler:
 
 | Kategori | Teknolojiler |
 | :--- | :--- |
-| **Oyun Motoru** | `![Unity](https://img.shields.io/badge/Unity-2023.2-black?style=flat-square&logo=unity)` |
-| **Programlama Dilleri** | `![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp)` `![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)` |
-| **Proje Yönetimi** | `![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)` |
-| **Tasarım & Ofis** | `![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)` `![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva)` `![Office](https://img.shields.io/badge/Office-D83A00?style=flat-square&logo=microsoft-office)` |
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jira" alt="Jira" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40"/>
-  <img src="https://skillicons.dev/icons?i=canva" alt="Canva" height="40"/>
-  <img src="https://skillicons.dev/icons?i=office" alt="MS Office" height="40"/>
-</p>
+| **Oyun Motoru** | ![Unity](https://img.shields.io/badge/Unity-2023.2-black?style=flat-square&logo=unity) |
+| **Programlama Dilleri** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
+| **Proje Yönetimi** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira) |
+| **Tasarım & Ofis** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva) ![Office](https://img.shields.io/badge/Office-D83A00?style=flat-square&logo=microsoft-office) |
 
 ---
 
- Yayınlanmış Projelerim (Google Play ve Kodlar)
+## 🚀 Yayınlanmış Projelerim
 
-Oyunlarımın canlı sürümlerine Google Play üzerinden ulaşabilir, projelerime ait açık kaynak kodlu script'leri ise GitHub repolarımda inceleyebilirsiniz:
+Oyunlarımın canlı sürümlerine **Google Play** üzerinden ulaşabilir, açık kaynak kodlu script’leri ise GitHub repolarımda inceleyebilirsiniz:
 
-| Oyun Adı | Durum | Google Play Linki | Kod Reposu (Script'ler) |
+| 🎮 Oyun Adı | Durum | Google Play | Kod Reposu |
 | :--- | :--- | :--- | :--- |
-| **Critical Code** | Yayınlandı | [Oyna!](https://play.google.com/store/apps/details?id=com.Izkaer.CriticalCode) | [Kodları İncele](https://github.com/izzetkadireryilmaz/CriticalCode-Scripts) |
-| **Cycle Of War** | Yayınlandı | [Oyna!](https://play.google.com/store/apps/details?id=com.Izkaer.CycleOfWar) | [Kodları İncele](https://github.com/izzetkadireryilmaz/CycleOfWar-Scripts) |
+| **Critical Code** | ✅ Yayınlandı | [Oyna!](https://play.google.com/store/apps/details?id=com.Izkaer.CriticalCode) | [Kodları İncele](https://github.com/izzetkadireryilmaz/CriticalCode-Scripts) |
+| **Cycle Of War** | ✅ Yayınlandı | [Oyna!](https://play.google.com/store/apps/details?id=com.Izkaer.CycleOfWar) | [Kodları İncele](https://github.com/izzetkadireryilmaz/CycleOfWar-Scripts) |
 
 ---
 
-### 📊 GitHub İstatistiklerim
+## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izzetkadireyilmaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="İzzet Kadir'in GitHub İstatistikleri" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzetkadireyilmaz&layout=compact&theme=dark&langs_count=6" alt="İzzet Kadir'in En Çok Kullanılan Dilleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=izzetkadireyilmaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzetkadireyilmaz&layout=compact&theme=dark&langs_count=6" height="165"/>
 </p>
 
 ---
 
-### 🌐 Sosyal Medya & İletişim
+## 🌐 Sosyal Medya & İletişim
 
-Benimle bu platformlardan iletişime geçebilir;
+<p align="center">
+  <a href="https://www.linkedin.com/in/izzetkadireyilmaz"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+  <a href="mailto:izzetkadireryilmaz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/></a>
+  <a href="https://www.izkaer.com/portfolyo"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolyo"/></a>
+</p>
 
-| Platform | Bağlantı |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izzetkadireyilmaz) |
-| **E-posta** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:izzetkadireryilmaz@gmail.com) |
-| **Website / Portfolyo** | [![Website](https://img.shields.io/badge/Portfolyo-181717?style=flat-square&logo=vercel&logoColor=white)](https://www.izkaer.com/portfolyo) |
+---
+
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izzetkadireyilmaz&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

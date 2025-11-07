@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[https://i.imgur.com/B94Uj9j.png](https://imgur.com/W0lk4OM)" alt="İzzet Kadir Eryılmaz GitHub Banner" width="100%"/>
+ <img src="https://i.imgur.com/WOlk4OM.png" alt="İzzet Kadir Eryılmaz Banner" width="100%"/>
+
 </p>
 
 ---

@@ -5,9 +5,8 @@
 ---
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/74623707?v=4" width="150" height="150" style="border-radius: 50%;">
   <h1>Selam, Ben İzzet Kadir Eryılmaz!</h1>
-  <p><i>Oyun Geliştiricisi • Unity Enthusiast • Mobil & PC Projeleri</i></p>
+  <p><i>Unity Game Developer  • Mobil & PC Projeleri</i></p>
 </div>
 
 ---

@@ -1,7 +1,7 @@
-<p align="center">
- <img src="https://i.imgur.com/WOlk4OM.png" alt="İzzet Kadir Eryılmaz Banner" width="100%"/>
+<div align="center">
+  <img src="assets/banner.png" alt="İzzet Kadir Eryılmaz Banner" width="100%"/>
+</div>
 
-</p>
 
 ---
 

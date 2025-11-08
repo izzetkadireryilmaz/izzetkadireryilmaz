@@ -29,7 +29,7 @@ Profesyonel ve kişisel projelerimde kullandığım başlıca teknolojiler:
 
 | Kategori | Teknolojiler |
 | :--- | :--- |
-| **Oyun Motoru** | ![Unity](https://img.shields.io/badge/Unity-2023.2-black?style=flat-square&logo=unity) |
+| **Oyun Motoru** | ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity) |
 | **Programlama Dilleri** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python) |
 | **Proje Yönetimi** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence) |
 | **Tasarım & Ofis** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva) ![Office](https://img.shields.io/badge/Office-D83A00?style=flat-square&logo=microsoft-office) |
